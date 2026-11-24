@@ -1,0 +1,12 @@
+{
+  "name": "colombia-experience-az",
+  "version": "1.0.0",
+  "description": "Colombia Tourism Marketplace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
